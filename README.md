@@ -12,6 +12,8 @@
 
 --verbose   Scanner em tempo real.
 
+________________________________________________________________________________________________________________________
+
   Scanner completo de todas as portas                                                      
 
 python3 {} --ip <IP> --scan
