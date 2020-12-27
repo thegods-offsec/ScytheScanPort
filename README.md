@@ -13,16 +13,24 @@
 --verbose   Scanner em tempo real.
 
   Scanner completo de todas as portas                                                      
+
 python3 {} --ip <IP> --scan
   
 Scanner com um número X de portas
+  
   python3 {} --ip <IP> --portas <portas.txt>
+
 Utilizando a opção "threads"
+  
   python3 {} --ip <IP> --scan --threads 5
+
 OBS: Pode utilizar está opção com o parãmetro "--portas".
   
+
 Utilizando a opção "verbose"
+  
   python3 {} --ip <IP> --scan --verbose
+  
 OBS: Pode utilizar está opção com o parãmetro "--portas".
 
 
